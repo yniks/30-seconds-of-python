@@ -13,7 +13,7 @@ Explain briefly what the snippet does.
 
 ```py
 def function_name(args):
-  # code
+  # my code
   return 0
 ```
 
